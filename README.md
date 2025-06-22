@@ -35,15 +35,11 @@ The dataset includes basal and luminal cell types, with basal cells further divi
 * Sample correlations and hierarchical clustering
 * Principal Component Analysis (PCA)
 
-!!!
-
 ### 5. **Differential Methylation**
 
 * Used logistic regression or Fisher’s test (`calculateDiffMeth`)
 * Generated volcano plot of differential CpG sites
 * Identified hyper/hypomethylated CpGs (Δmethylation >25%, q < 0.01)
-
-!!!
 
 ### 6. **Annotation**
 
